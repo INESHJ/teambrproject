@@ -1,5 +1,0 @@
-package Inesh
-
-object Trial {
-
-}
